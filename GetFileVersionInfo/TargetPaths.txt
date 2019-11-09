@@ -1,0 +1,4 @@
+﻿asdfasd
+C:\Program Files (x86)\Internet Explorer
+C:\Program Files (x86)\Internet Explorer\sqmapi.dll
+C:\Program Files (x86)\Internet Explorer\sqmapi.dll
